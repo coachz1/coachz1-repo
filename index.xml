@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="coachz repo" commit="ad10a4ff1c606c067bb10e154a8c58c439fbe6f0">
+  <category name="tracks">
+    <reapack name="jb_add_frozen_to_track_name.lua" type="script" desc="Add and Remove Frozen from track name">
+      <version name="0.91" author="coachz" time="2021-01-07T17:52:16Z">
+        <source main="main">https://github.com/coachz1/coachz1-repo/raw/ad10a4ff1c606c067bb10e154a8c58c439fbe6f0/tracks/jb_add_frozen_to_track_name.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
